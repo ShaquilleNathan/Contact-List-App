@@ -92,11 +92,6 @@ Then follow Steps 2–4 above.
 
 ### 💡 Development Notes
 - This app uses Realm for data persistence. Make sure your installed Realm version is compatible with your React Native version.
-
 - The app is currently in debug mode, and it hasn’t been optimized for production builds or release APKs.
-
 - State management is kept simple using React hooks (useState, useEffect).
-
 - Data schema is defined in a separate ContactSchema.js file under /realm.
-
-
