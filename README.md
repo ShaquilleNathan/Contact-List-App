@@ -1,4 +1,4 @@
-# 📱 React Native Contact List App
+# 📱 React-Native Contact List App
 
 A simple and experimental contact list app built using **React Native** and **Realm DB**. This app allows users to add and delete contact entries (name and phone number). All data is stored locally using Realm.
 
@@ -13,6 +13,13 @@ A simple and experimental contact list app built using **React Native** and **Re
 - View all saved contacts in a scrollable list
 - Delete individual contacts
 - Persistent local storage using Realm Database
+
+<div align="center">
+  <img src="https://i.postimg.cc/rsD0f83F/Whats-App-Image-2025-05-18-at-00-39-14.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
+  <img src="https://i.postimg.cc/BZz1XKP8/Whats-App-Image-2025-05-18-at-00-39-15.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
+  <img src="https://i.postimg.cc/3w9k74Hx/Whats-App-Image-2025-05-18-at-00-39-15-1.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
+  <img src="https://i.postimg.cc/w3KvFDD0/Whats-App-Image-2025-05-18-at-00-39-15-2.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
+</div>
 
 ---
 
