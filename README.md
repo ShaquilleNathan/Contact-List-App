@@ -88,6 +88,8 @@ npx react-native@0.68.5 init (your project name) --version (your react-native ve
 ```
 Then follow Steps 2–4 above.
 
+---
+
 ### 💡 Development Notes
 - This app uses Realm for data persistence. Make sure your installed Realm version is compatible with your React Native version.
 
