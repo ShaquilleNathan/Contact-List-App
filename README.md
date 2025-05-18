@@ -41,8 +41,8 @@ A simple and experimental contact list app built using **React Native** and **Re
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ShaquilleNathan/Contact-List-App.git
+cd your-project-name
 ```
 
 ### ✅ Step 2: Install Required Dependencies
