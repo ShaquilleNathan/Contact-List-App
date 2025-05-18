@@ -84,7 +84,7 @@ npx react-native run-ios
 ### ✅ Optional: Creating New Project (for fresh setup)
 If you're starting from scratch, you can initialize a new project with this command:
 ```bash
-npx react-native@0.68.5 init (your project name) --version (your react-native version)
+npx react-native@(your react-native version) init (your project name) --version (your react-native version)
 ```
 Then follow Steps 2–4 above.
 
